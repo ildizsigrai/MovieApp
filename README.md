@@ -1,3 +1,14 @@
+# Overview
+
+MovieSearch is a React application that enables users to search for movies based on titles. It uses the OMDb API to fetch movie data and displays the results in a clean and user-friendly interface.
+
+# Features
+
+- Search for movies by title.
+- View detailed information about each movie.
+- Responsive design for a seamless experience on different devices.
+-
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
